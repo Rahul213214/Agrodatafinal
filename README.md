@@ -1,4 +1,7 @@
 # Agrodatafinal
+Application can solve farmers daily problem about his expenses, daily problem, farmers l can use crud operation.
+Crop expert can solve farmers problem 
+
 ![Screenshot (57)](https://user-images.githubusercontent.com/69863748/171468646-b6d5e31c-da64-4cc2-a60f-1230b7c43a13.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/69863748/171468724-8ea7044e-89f5-46ab-ab89-7edc9ba3dfef.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/69863748/171468732-7d292e76-1c9f-481f-89f5-bf87e786781e.png)
